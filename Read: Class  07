@@ -1,0 +1,7 @@
+Explain why we need domain modeling.  ~It helps clarify requirements and the design intent
+Why should tables not be used for page layouts?  ~Layout tables reduce accessibility for visually impaired users and tables are not automatically responsive.
+List and describe 3 different semantic HTML elements used in an HTML <table>. ~<section> - Defines a section in a document, <nav> - Defines navigation links, <article> - specifies independent, self-contained content.
+
+What is a constructor and what are some advantages to using it? ~a constructor is used to create the instance of the class. advantage in using it is adding a field to a class because only the copy constructor needs to be changed
+How does the term this differ when used in an object literal versus when used in a constructor? ~difference here is what you can do with it. With the constructor function notation you create an object that can be instantiated into multiple instances (with the new keyword), while the literal notation delivers a single object, like a singleton
+Explain prototypes and inheritance via an analogy from your previous work experience. ~prototypes are methods that can be used to create objects. this realtes to functions made about numbers and math like adding subtract and mulitply.
