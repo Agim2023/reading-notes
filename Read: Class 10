@@ -1,0 +1,8 @@
+Name some key differences between a Syntax Error and a Logic Error. ~Syntax Error: The program terminates due to such errors and cannot execute successfully until we rectify it. Also, The cause is the fault in the program syntax.
+Logical Error: It does not cause termination of the program abnormally. And the cause is the fault in the logic or algorithm.
+List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them. ~mispelled words that needs correction, variables that haven't been declared, wrong elements in the wrong places. auto correct and specfic shortcuts like is what I used to correct the errors. 
+How will this topic continue to influence your long term goals? ~this topic will help me understand the imprtance of making sure all my content and codes are in the right place and is spell correctly.
+
+How would you describe the JavaScript Debugger tool and how it works to someone just starting out in software development? ~ n the debugger window, you can set breakpoints in the JavaScript code. At each breakpoint, JavaScript will stop executing, and let you examine JavaScript values. So each stop sign, you get to check if your engine is still running or has it temporary shut down because its a V8 engine, which will restart once to let off the brake pedal.
+Define what a breakpoint is. ~ breakpoints are places where code execution can be stopped. You set breakpoints wherever you want to pause debugger execution.
+What is the call stack? ~A call stack is a mechanism for an interpreter (like the JavaScript interpreter in a web browser) to keep track of its place in a script that calls multiple functions. 
