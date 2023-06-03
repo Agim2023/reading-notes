@@ -1,0 +1,16 @@
+Explain how the ability to use video and audio on the web has evolved since the early 2000s. ~video and audio has evoled hugely since the early 2000s. From cd discs and dvds to live streaming for audio and videos, even 4k features from regualr hd or blueray back in the early 200s
+Describe the use of the src and controls attributes in the <video> element. ~The src attribute specifies the URL of the video file. Controls attributes in the video element specifies that video controls should be displayed. Video controls should include: Play.
+Why is it important to have fallback content inside the <video> element? ~ so the content that is to be used when the external resource cannot be used,because it is of an unsupported format.
+Write a very short story where <audio> and <video> are characters. ~noise(audio) and vid(video) are best friends in a world as they sse it as "The project" were the work together go conquer the ultimate prize: crown as the new porject of the world.
+
+How does Grid layout differ from Flex? ~flexbox was designed for layout in one dimension - either a row or a column. Grid was designed for two-dimensional layout - rows, and columns at the same time.
+Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences. ~A grid container defines a grid layout with rows and columns. Child Elements ( grid Items) is items that are contain by the git container. Git lines are any of a series of numbered horizontal and perpendicular lines that divide a map into squares to form a grid by means of which any point may be located by a system of rectangular coordinates.
+
+Besides making a site visually appealing across different screen sizes, why should developers make images responsive? ~Having responsive images is important because it helps us deliver optimal file size, the right image for the right screen size, i mproves user experience and improves loading time. 
+Define the following <img> attributes srcset and sizes. Write an example of how they are used. ~allow authors to define various image resources and "hints" that assist a user agent to determine the most appropriate image source to display. For exaample, <img
+  srcset="elva-fairy-480w.jpg 480w, elva-fairy-800w.jpg 800w"
+  sizes="(max-width: 600px) 480px,
+         800px"
+  src="elva-fairy-800w.jpg"
+  alt="Elva dressed as a fairy" />
+How is srcset more helpful for responsive images than CSS or JavaScript? ~srcset allows you to provide additional source files, and the browser will choose the image that seems optimal for that image size.
