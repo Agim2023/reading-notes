@@ -1,0 +1,10 @@
+What does the <canvas> allow a developer to acheive? ~Creating or retrieving announcements.
+What is the importance of the closing `</canvas> tag? ~The Canvas tag is a container tag. This means that it requires both opening and closing tags.
+Explain what the getContext() method does. ~The getcontext() function initializes the structure pointed to by ucp to the current user context of the calling process. 
+
+What is Chart.js and how it can be brought into your project? ~Chart. js is a popular open-source library for visualizing data. It allows you to create different types of charts from datasets such as bar charts, pie, line, donut, scatters, etc. it can be brought into a project by Define a <div> tag in the HTML file with a unique id.
+Provide this id, data, and any other options when calling JSC. Chart() in the JavaScript file. 
+List 3 different Chart types you can create using Chart.js. ~Line Chart, Bar Chart, and Pie Chart
+
+What are some advantages to displaying data via a chart over a table? ~data can be better understood when presented by a graph than by a table because the graph can reveal a trend or comparison.
+How could Chart.js aid your previously created applications visually? ~by show a more clear, visual results form into a chart like a pie chart, which shows percentage results compare to a list or a calcutated table.
