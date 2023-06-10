@@ -1,0 +1,3 @@
+Why would a developer use local storage for a web application? ~toallow developers to store and retrieve data in the browser. 
+What information should not be stored in local storage? ~ersonally Identifiable Information (PII), authentication tokens, user locations and API keys should not  be stored in local storage.
+Local storage can store what type of data? How would you convert it to that type before storing? ~local Storage can store only strings.  To store objects, you convert them to strings using the JSON. stringify() method. And you convert the strings into objects when you retrieve them from the localStorage using the JSON.
