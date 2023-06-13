@@ -1,0 +1,16 @@
+What does a CSS transform allow the developer to do to an element? ~it lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model.
+Provide an example of a transform and how you could see that being used on a website. ~HTML = 
+<figure class="box-1">Box 1</figure>
+<figure class="box-2">Box 2</figure CSS = .box-1 {
+  transform: scale(.75);
+}
+.box-2 {
+  transform: scale(1.25);
+}
+
+What does a CSS transition allow the developer to do to an element? ~Allows to control animation speed when changing CSS properties.
+How does a CSS animation differ from a CSS transition? ~The animation property allows you to change the properties of an element over a specific duration, while transition defines how an element changes over a specific duration
+CSS transitions are generally best for simple from-to movements, while CSS animations are for more complex series of movements. 
+
+What are some benefits to using CSS transitions on websites? ~engage a user in using a website and keep them interested when scrolling through and navigating from page to page.
+How this topic fit in with your long-term goals? ~this topic will help me expand my learning in coding, especially in CSS. the different features you can find in CSS to bring more flavor and compliments to your page is defintely need to present a great piece of work to the table.
