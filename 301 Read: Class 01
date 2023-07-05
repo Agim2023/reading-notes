@@ -1,0 +1,7 @@
+What is a “component”? ~ Components are independent and reusable bits of code.
+What are the characteristics of a component? ~ Components come in two types, Class components and Function components.
+What are the advantages of using component-based architecture? ~ More Control and Lower Maintenance Costs, Faster Development to Save Time and Increase Revenue, and take Advantage of Specialized Skills.
+
+What is “props” short for? ~ Props stand for properties and is a special keyword in React.
+How are props used in React? ~ Props are used to store data that can be accessed by the children of a React component. 
+What is the flow of props? ~ props in React is to pass data from one component to another. They are useful when you want the flow of data in your app to be dynamic.
