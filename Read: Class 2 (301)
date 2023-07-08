@@ -1,0 +1,9 @@
+Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’? ~the render is called first, then the ‘componentDidMount’ is invoked.
+What is the very first thing to happen in the lifecycle of React? ~Mounting (adding nodes to the DOM), Updating (altering existing nodes in the DOM), Unmounting (removing nodes from the DOM)
+Put the following things in the order that they happen: componentDidMount, render, constructor, componentWillUnmount, React Updates ~constructor, render, React updates, componentDidMount, componentWillUnmount
+what does componentDidMount do? ~allows us to execute the React code when the component is already placed in the DOM (Document Object Model). It also change the state of our application and render() the updated data loaded JSX
+
+What types of things can you pass in the props? ~object, array, boolean, number, string, function
+What is the big difference between props and state? ~Props are immutable and cannot be changed within a component, while state is mutable and can be updated using the setState function.
+When do we re-render our application? ~whenever there is a change in their state or props. A simple update of the state, from anywhere in the code, causes all the User Interface (UI) elements to be re-rendered automatically.
+What are some examples of things that we could store in state? ~ store a string in the state and render the component conditionally but in some cases, it is simpler to just store the component in the state.
