@@ -1,0 +1,15 @@
+What does .map() return? ~.map() means It returns an array of numbers and doubles their values.
+If I want to loop through an array and display each value in JSX, how do I do that in React? ~using the map() function, return a element for each item, then include the entire array inside a element.
+Each list item needs a unique ~component.
+What is the purpose of a key? ~The purpose of a key will help React identify which items have changed, are added, or are removed.
+
+What is the spread operator? ~A useful and quick syntax for adding items to arrays, etc.
+List 4 things that the spread operator can do. ~Copying an array, using Math functions, adding to state in React, and combining objects.
+Give an example of using the spread operator to combine two arrays. ~example of the spread operator combining two arrays: the function [...arr1,...arr2]
+Give an example of using the spread operator to add a new item to an array. ~the array.push(element) method.
+Give an example of using the spread operator to combine two objects into one. ~example:let merged = object.assign({}, update, person), console.log(merged), console.log(person)
+
+In the video, what is the first step that the developer does to pass functions between components? ~the developer declaired it and passed it in a person using the function increment.
+In your own words, what does the increment function do? ~It passes the object, theno add a count to a name clicked.
+How can you pass a method from a parent component into a child component? ~As a props to the child component.
+How does the child component invoke a method that was passed to it from a parent component? -It invokes the prop, the parent function is called, changin something, and then the parent component is rendered again along with its children.
