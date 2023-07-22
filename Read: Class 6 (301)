@@ -1,0 +1,22 @@
+To what extent did psychological safety impact your previous work experience? ~It had absolutely no affect on it. Instead, we all cooperated to solve the problem.
+How does this article inform your approach to working with others moving forward? ~ It teaches me to be more mindful of people and things. to also be conscious of and receptive to the ideas and opinions of others.
+
+Who is Roy Fielding? ~Is a man who contributed to the creation of the first web servers, which sent data across the internet.
+Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world? ~They would only connect to one set thing, the 'http' allows you to find a location of something anywhere in the world from anywhere in the world.
+What is the HTTP protocol that Fielding and his friends created? ~It comes down to using verbs with nouns. As an illustration, while you are on a web page, the browser does a "HTTP GET" on the url you entered, and a web page is returned.
+What does a GET do? ~enables you to pick up or choose that object.
+What does a POST do? ~adds something from one system to another.
+What does PUT do? ~replaces a component in one system with one from another.
+What does PATCH do? ~does a partial system update.
+
+Geocoding API
+Did you get your API key? ~Yes
+
+Weather Bit API
+Did you get your API key? ~Yes
+
+Yelp API Docs
+Did you get your API key? ~Yes
+
+The Movie DB API Docs
+Did you get your API key? ~Yes
