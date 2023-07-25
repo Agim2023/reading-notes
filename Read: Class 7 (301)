@@ -1,0 +1,12 @@
+What is node.js? ~It is a JavaScript runtime that is based on the V8 JavaScript engine from Google.
+In your own words, what is Chrome’s V8 JavaScript Engine? ~It is an open-source Java script engine that works with an extensive variety of web browsers.
+What does it mean that node is a JavaScript runtime? ~It is a program that can be used to run JavaScript, or to put it another way, a runtime for JavaScript.
+What is npm? ~A package manager included with Node.js.
+What version of node are you running on your machine? ~"v20.3.0" version.
+What version of npm are you running on your machine? ~Version "9.6.7"
+What command would you type to install a library/package called ‘jshint’? ~The command to use is npm install -g jshint.
+What is node used for? ~-To run tests, perform automatic code linting and style checking, bundle your JavaScript files and dependencies into static assets, and more.
+
+What are the 6 reasons for pair programming? ~ Greater efficiency, Engaged collaboration, Learning from fellow students, Social skills, Job interview readiness and Work environment readiness.
+In your experience, which of these reasons have you found most beneficial? ~The things that I found to be most helpful for me were learning from other students and getting ready for interviews.
+How does pair programming work? ~The Driver and the Navigator are typically the two roles in pair programming. The programmer, often known as the driver, is the one who types everything. The Navigator does not directly input any text into the computer; instead, they utilize their words to direct the Driver.
