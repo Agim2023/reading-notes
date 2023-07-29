@@ -1,0 +1,11 @@
+What does REST stand for? Representational State Transfer, which is an architectural approach to designing web services.
+REST APIs are designed around a ____. ~resource
+What is an identifier of a resource? Give an example. ~A URI is a resource's identifier. "https://adventure-works.com/orders/1" is an illustration.
+What are the most common HTTP verbs? ~The five most often used verbs are "GET," "POST," "PUT," "PATCH," and "DELETE."
+What should the URIs be based on? ~Nouns (the resource) rather than verbs (the activities on the resource) should serve as the foundation for resource URIs.
+Give an example of a good URI. ~The path to the customers collection can be found at /customers, and the path to the customer with ID 5 can be found as /customers/5.
+What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing? ~All web queries place a burden on the web server when there is a noisy web API. It is preferable to avoid having one.
+What status code does a successful GET request return? ~HTTP status code 204 should be given back via GET.
+What status code does an unsuccessful GET request return? ~404 (Not Found) should be returned if unsuccessful.
+What status code does a successful POST request return? ~HTTP status code 200 should be returned after a successful code.
+What status code does a successful DELETE request return? ~The web server should respond with HTTP status code 204 (No Content) if the delete operation is successful.
