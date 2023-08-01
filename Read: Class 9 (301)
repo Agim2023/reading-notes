@@ -1,0 +1,10 @@
+What is functional programming? ~Functional programming is a paradigm for constructing computer programs' structure and constituent parts that sees computation as the execution of mathematical functions and steers clear of changing-state and mutable data.
+What is a pure function and how do we know if something is a pure function? ~A pure function is one that has no discernible side effects and consistently produces the same result given the same input.
+What are the benefits of a pure function? ~It returns the exact same value, which is one of its biggest advantages.
+What is immutability? ~An immutable state is one that cannot be altered once it has been established.
+What is Referential transparency? ~When a function consistently produces the same output for the same input, this is known as referential transparency.
+
+What is a module? ~A module is a portion of code that is inserted all at once or is made to be easily reused.
+What does the word ‘require’ do? ~The Node search path libraries and modules are resolved by require.
+How do we bring another module into the file the we are working in? ~Declaring it allows you to include a different module in the file you're working on.
+What do we have to do to make a module available? ~You must first export module features in order to access them. Using the export statement, this is accomplished.
