@@ -1,0 +1,12 @@
+What is a ‘call’? ~The call stack is generally utilized for calling functions.
+How many ‘calls’ can happen at once? ~A single function is executed from top to bottom, one at a time.
+What does LIFO mean? ~LIFO stands for Last In, First Out and denotes that when a function returns, the last function that was pushed into the stack will be the first to be popped out.
+Draw an example of a call stack and the functions that would need to be invoked to generate that call stack. ~function firstFunction(){ throw new Error('Stack Trace Error'); }
+What causes a Stack Overflow? ~When a recursive function—a function that calls itself—does not have an exit point, a stack overflow happens
+
+What is a ‘reference error’? ~A reference error happens when a variable that hasn't been declared is used.
+What is a ‘syntax error’? ~When anything cannot be parsed in terms of syntax, it makes a syntax error.
+What is a ‘range error’? ~When you attempt to manipulate an object with some form of length and give it an incorrect length, a range error happens.
+What is a ‘type error’? ~A type error appears when the types (number, string, and so on) you are trying to use or access are incompatible, such as when you try to access a property in a variable with an undefined type.
+What is a breakpoint? ~A debugger statement placed in your code at the line you want to break serves as a breakpoint.
+What does the word ‘debugger’ do in your code? ~Debugging your code and pointing out its flaws is what the phrase debugger purports to achieve.
