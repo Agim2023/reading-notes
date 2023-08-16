@@ -1,0 +1,27 @@
+Fill in the chart below with five differences between SQL and NoSQL databases:
+
+SQL	NoSQL:
+ SQL:
+Relational Databases(RDBMS), table based, predefined schema, vertically scalable
+NOSQL:
+non-relational distributed database, key-value pairs, graph databases, wide-column stores, document based, dynamic schema for unstructured data, horizontally scalable
+
+What kind of data is a good fit for an SQL database? ~Highly organized, with clearly defined links between software elements.
+Give a real world example. ~SQL is used by platforms like Facebook and LinkedIn to store user profile information.
+What kind of data is a good fit a NoSQL database? ~data that is unstructured and semi-structured.
+Give a real world example. ~Massive amounts of data, including user profiles, watching histories, and content recommendations, are stored and managed by HULU using a NoSQL database.
+Which type of database is best for hierarchical data storage? ~The best kind of database is a NoSQL database.
+Which type of database is best for scalability? ~The greatest type of database for scaling is a NoSQL one because it can grow both vertically and horizontally.
+
+What does SQL stand for? ~Structured Query Language
+What is a relational database? ~a database that operates based on specific presumptions or in a specific manner. SQL is also supported.
+What type of structure does a relational database work with? ~tables, such as a table listing products.
+What is a ‘schema’? ~a group of database objects connected to a database.
+What is a NoSQL database? ~ata is stored differently in non-tabular databases than it is in relational tables.
+How does it work? ~The NoSQL has databases, such as a store database. As contrast to tables, there exist "collections," and within them are documents that are not required to follow the same schema.
+What is inside of a MongoDB database? ~groups of data that contain one or more BSON documents.
+Which is more flexible - SQL or MongoDB? and why. ~As MongoDB lacks these restrictions, it is more flexible.
+What is the disadvantage of a NoSQL database? ~They don't support transactions involving numerous documents that are atomic, consistent, isolated, or durable.
+ 	 
+ 	 
+ 	 
