@@ -1,0 +1,5 @@
+Which HTTP method would you use to update a record through an API? ~You would use a PUT or PATCH technique to update a record.
+Which REST methods require an ID parameter? ~the HEAD method, GET method, PUT method, PATCH method, and DELETE method.
+
+What’s the relationship between REST and CRUD? ~RESTful APIs structure their endpoints in a way that maps HTTP methods to CRUD processes, which is how REST and CRUD are related.
+If you had to describe the process of creating a RESTful API in 5 steps, what would they be? ~Establish the Resources and Endpoints, Select HTTP methods for CRUD operations, create request and response formats, put API endpoints in place, test, document, and deploy.
