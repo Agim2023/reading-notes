@@ -1,0 +1,21 @@
+In your own words, describe what each group of status code represents:
+
+100’s = These status codes are informative; they inform the client that the initial portion of a request has been received. 
+200’s = These are the codes for success. These inform the customer that their request was granted. 
+300’s = The redirection codes are as follows. These inform the client that the resource is no longer available where it was anticipated.
+400’s = The client error codes are listed here. When a client sends a server an incorrect request, this occurs.
+500’s = These are the error codes for the server. They frequently signal issues with a service that is overloaded and may be temporary or permanent.
+What is a status code 202? ~A status 202 code informs the client that the request was valid, but processing takes place later.
+What is a status code 308? ~a persistent redirect instructs the client to access the resource using a different URL rather than the one they are currently using.
+What code would you use if an update didn’t return data to a client? ~No Content error code 204.
+What code would you use if a resource used to exist but no longer does? ~a code 410 Gone.
+What is the ‘Forbidden’ status code? ~In this code, the client has not yet granted itself permission to visit the backend, but the server might do so later.
+
+Why do we need to pull our MongoDB database string out of our server and put it into our .env? ~It's for the coding's security.
+What is middleware? ~a layer of software components positioned between various system components. They make interactions, processing, and communication easier.
+What does app.use(express.json()) do? ~In the appropriate route handler, it parses the JSON data, puts it in the req.body property, and then transfers control to the following middleware.
+What does the /:id mean in a route? ~It suggests that a portion of the URL is used as a stand-in for a value.
+What is the difference between PUT and PATCH? ~To replace or update an entire resource, use the PUT technique. To make partial adjustments to a resource, use the PATCH technique.
+How do you make a default value in a schema? ~Using mongoose, you can set the property within the schema's definition of the field.
+What does a 500 error status code mean? ~It is a general error message that doesn't explain what specifically went wrong.
+What is the difference between a status 200 and a status 201? ~If you receive a status code of 200, it means that the server has successfully processed the client's request. A status code of 201 denotes a successful request and the creation of a new resource.
