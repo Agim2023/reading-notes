@@ -1,0 +1,12 @@
+What is OAuth? ~A framework or open-standard authorization protocol that explains how unconnected servers and services can securely permit authorized access to their resources without actually sharing the original, connected, single logon credential
+Give an example of what using OAuth would look like. ~Using authorisation to sign into a third-party app with Yahoo or Google is one example.
+How does OAuth work? What are the steps that it takes to authenticate the user? ~OAuth enables a user (resource owner) to authorize restricted access to a client application from a third party without disclosing their login credentials.
+What is OpenID? ~a decentralized, open-standard authentication technique that enables users to sign in to numerous websites and programs using the same set of credentials.
+
+What is the difference between authorization and authentication? ~An authenticated user's permissions to utilize a certain resource or carry out a particular operation are checked as part of the authorization process. Verifying a user, system, or entity's identity is the process of authentication.
+What is Authorization Code Flow? ~a procedure for authenticating users that offers a safe way to receive an access token, which is subsequently utilized to access restricted resources on the user's behalf.
+What is Authorization Code Flow with Proof Key for Code Exchange (PKCE)? ~It offers an additional layer of security to thwart some assaults as an enhanced security version of the basic ACF.
+What is Implicit Flow with Form Post? ~a method of obtaining access tokens for client-side apps.
+What is Client Credentials Flow? ~An authorization flow in which a client requests access tokens from an authorization server without involving a user and is mostly used for server-to-server communication.
+What is Device Authorization Flow? ~An authorisation process created to give devices with constrained input capabilities a way to get access tokens.
+What is Resource Owner Password Flow? ~an authorization that asks users to submit their credentials, frequently through an interactive form.
